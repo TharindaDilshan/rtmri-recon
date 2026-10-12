@@ -1,0 +1,4 @@
+numpy
+finufft
+pymapvbvd
+imageio-ffmpeg
